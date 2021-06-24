@@ -1,6 +1,6 @@
 # Jira Issue Field Update
 
-Description
+Extracts Jira issue keys from the entire Git commit message (subject and body) and updates a Jira field with the Bitrise build number.
 
 
 ## How to use this Step
